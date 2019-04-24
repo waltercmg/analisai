@@ -1,0 +1,6 @@
+1. Incluir totais DERCE
+2. Manter 12 meses
+3. Incluir relacionamento m x n de lotações com usuarios (permitir que Dani veja tudo)
+4. Incluir novos indicadores (expansão OC, MVP e agregar os outros de teste): Gustavo
+5. Incluir lista de verificação (uma tabela por tipo de ocorrência): Gustavo
+6. Trocar campo "ações" para "considerações gerencia senior"
